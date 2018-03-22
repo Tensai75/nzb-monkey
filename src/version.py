@@ -3,7 +3,8 @@
 
 History
 v0.2.2
-- Addition of Newzleech support
+- Newzleech indexer added
+- Synology Downloadstation API fixed
 
 v0.2.1
 - Fixed category settings
